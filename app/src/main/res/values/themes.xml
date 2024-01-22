@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RegistroMedidor" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+        <!-- Agregar esta línea para el color del texto -->
+        <item name="android:textColorPrimary">@android:color/black</item>
+    </style>
+
+    <style name="Theme.RegistroMedidor" parent="Base.Theme.RegistroMedidor" />
+</resources>
